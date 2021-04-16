@@ -1,2 +1,4 @@
 This is the goodbye file in my test repository
 I'm trying to push it
+I'm using GitHub Desktop to help me out. I think my problem was that I didn't "fetch" the origin. Need to look into how to do that via command line
+
