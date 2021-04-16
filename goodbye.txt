@@ -1,2 +1,3 @@
 This is the goodbye file in my test repository
 I'm trying to push it
+It finally pushed. I had to make an SSH key to connect my local directory to the remote server. Strange, as I didn't have to do that with my personal account. Ok.
